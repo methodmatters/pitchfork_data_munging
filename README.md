@@ -4,4 +4,4 @@ The code in this repository accompanies a blog post on cleaning data on Pitchfor
 
 The blog post describing the data munging process can be found here: 
 
-## https://methodmatters.blogspot.com/2019/07/showing-some-respect-for-data-munging.html
+## https://methodmatters.github.io/showing-some-respect-for-data-munging-part-2/
